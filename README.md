@@ -62,7 +62,7 @@ Projeyi çalıştırmadan önce aşağıdaki araçların yüklü olması gerekir
 ### 1- Repoyu Klonlayın
 
 ```bash
-git clone REPO_LINK
+git clone https://github.com/bediaerdem/e-commerce-app.git
 ```
 
 ---
