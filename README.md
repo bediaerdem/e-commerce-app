@@ -30,21 +30,7 @@ Proje geliştirme sürecinde Flutter’ın temel mimarisi, widget yapısı, sayf
 
 ---
 
-##  Proje Yapısı
-lib/
-┣ components/
-┃ ┗ product_card.dart → Ürün kart widget yapısı
-┣ models/
-┃ ┗ product_model.dart → Veri model sınıfı
-┣ services/
-┃ ┗ api_service.dart → API veri çekme işlemleri
-┣ views/
-┃ ┣ home_screen.dart → Ana sayfa
-┃ ┣ product_detail_screen.dart → Ürün detay ekranı
-┃ ┗ card_screen.dart → Sepet ekranı
-┗ main.dart → Uygulama başlangıç noktası
-
-# 📸 Uygulama Ekran Görüntüleri
+#  Uygulama Ekran Görüntüleri
 
 ### Ana Sayfa
 ![Ana Sayfa](assets/screenshots/home_screen.png)
@@ -60,7 +46,7 @@ lib/
 
 # ⚙️ Kurulum ve Çalıştırma
 
-## ✅ Gereksinimler
+## Gereksinimler
 
 Projeyi çalıştırmadan önce aşağıdaki araçların yüklü olması gerekir:
 
@@ -71,9 +57,9 @@ Projeyi çalıştırmadan önce aşağıdaki araçların yüklü olması gerekir
 
 ---
 
-## 🪜 Kurulum Adımları
+## Kurulum Adımları
 
-### 1️⃣ Repoyu Klonlayın
+### 1- Repoyu Klonlayın
 
 ```bash
 git clone REPO_LINK
@@ -81,7 +67,7 @@ git clone REPO_LINK
 
 ---
 
-### 2️⃣ Proje Klasörüne Girin
+### 2- Proje Klasörüne Girin
 
 ```bash
 cd e-commerce-app/flutter_application_1
@@ -89,7 +75,7 @@ cd e-commerce-app/flutter_application_1
 
 ---
 
-### 3️⃣ Gerekli Paketleri Yükleyin
+### 3- Gerekli Paketleri Yükleyin
 
 ```bash
 flutter pub get
@@ -97,7 +83,7 @@ flutter pub get
 
 ---
 
-### 4️⃣ Bağlı Cihazları Kontrol Edin
+### 4- Bağlı Cihazları Kontrol Edin
 
 ```bash
 flutter devices
@@ -105,7 +91,7 @@ flutter devices
 
 ---
 
-### 5️⃣ Uygulamayı Çalıştırın
+### 5- Uygulamayı Çalıştırın
 
 ```bash
 flutter run
