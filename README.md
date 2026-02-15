@@ -30,17 +30,19 @@ Proje geliştirme sürecinde Flutter’ın temel mimarisi, widget yapısı, sayf
 
 ---
 
-#  Uygulama Ekran Görüntüleri
+##  Uygulama Görselleri
+
 ### Ana Sayfa
-![Ana Sayfa](flutter_application_1/assets/screenshots/home_screen.png)
+<img src="flutter_application_1/assets/screenshots/home_screen.png" width="250"/>
 
 ### Ürün Detay
-![Ürün Detay](flutter_application_1/assets/screenshots/product_detail_screen.png)
-![Ürün Detay](flutter_application_1/assets/screenshots/product_detail_screen_2.png)
+<img src="flutter_application_1/assets/screenshots/product_detail_screen.png" width="250"/>
+<img src="flutter_application_1/assets/screenshots/product_detail_screen_2.png" width="250"/>
 
 ### Sepet
-![Sepet](flutter_application_1/assets/screenshots/cart_screen.png)
-![Sepet](flutter_application_1/assets/screenshots/cart_screen_2.png)
+<img src="flutter_application_1/assets/screenshots/cart_screen.png" width="250"/>
+<img src="flutter_application_1/assets/screenshots/cart_screen_2.png" width="250"/>
+
 
 # ⚙️ Kurulum ve Çalıştırma
 
